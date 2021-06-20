@@ -1,0 +1,44 @@
+[
+    {
+        "name":"INDEX LIVING MALL ชุดครัว รุ่นเบลินด้า ขนาด 180 ซม. - สีขาว",
+        "image":"https://th-test-11.slatic.net/p/57fb51e7eb7eabf803363ea867764c17.jpg_400x400Q100.jpg_.webp",
+        "price":9790,
+        "old_price":19900,
+        "discount":"-51%"
+    },
+    {
+        "name":"Lenovo Legion Slim 7 15IMH5 (82BC001TTA) i7-10750H/Ram 8GB/1TB SSD/RTX2060/15.6\" UHD/W10/2Y onsite | Notebook Gaming โน๊ตบุ๊คเล่นเกม โน๊ตบุ๊คเกมส์",
+        "image":"https://th-test-11.slatic.net/p/156f8702cd715175eee6c205b5b39428.png_400x400Q100.jpg_.webp",
+        "price":50990,
+        "old_price":56990,
+        "discount":"-11%"
+    },
+    {
+        "name":"⚡️ พร้อมส่ง⚡️เสื้อยืด-ใหม่เสื้อยืดสกรีน สไตล์เกาหลี ผ้านิ่มใส่สบายรับรองไม่ย้วยไม่ร้อนNO:863",
+        "image":"https://th-test-11.slatic.net/p/e29361fcdaf1ff98f733b9dc65298a1f.jpg_400x400Q100.jpg_.webp",
+        "price":67,
+        "old_price":139,
+        "discount":"-52%"
+    },
+    {
+        "name":"Samsung เครื่องซักผ้าฝาบน รุ่น WA14R6380BV/ST พร้อมด้วย Digital Inverter, 14 กก.",
+        "image":"https://th-test-11.slatic.net/p/46a83e7b941655c93622e220999af8a0.jpg_400x400Q100.jpg_.webp",
+        "price":8890,
+        "old_price":13990,
+        "discount":"-36%"
+    },
+    {
+        "name":"Nintendo Switch with Joy-Con (Neon Red/Neon Blue)",
+        "image":"https://my-live-02.slatic.net/p/41bc2108526d5733ad7244f34c0215f1.jpg",
+        "price":10399,
+        "old_price":14999,
+        "discount":"-31%"
+    },
+    {
+        "name":"4K QLED PREMIUM [ผ่อน 0% นาน 10 เดือน] TCL 50 นิ้ว 4K QLED Android 9.0 TV Smart TV (รุ่น 50C715) Full Screen Design - Google Assistant & Netflix & Youtube & LINE TV - 2G RAM+16G ROM- Wifi 2.4 & 5 Ghz , Supp",
+        "image":"https://th-test-11.slatic.net/p/8b19f4d5eba1ae97c8fde95461780f53.jpg_400x400Q100.jpg_.webp",
+        "price":13990,
+        "old_price":24990,
+        "discount":"-44%"
+    }
+]
